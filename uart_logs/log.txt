@@ -1,0 +1,8 @@
+[UART]: System started
+[UART]: Left indicator toggled
+[UART]: System started
+[UART]: Left indicator toggled
+[UART]: Right indicator toggled
+[UART]: Right indicator toggled
+[UART]: Right indicator toggled
+[UART]: Right indicator toggled
